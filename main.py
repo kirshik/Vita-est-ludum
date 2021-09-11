@@ -1,2 +1,3 @@
-#Eazy pygame game
+# Eazy pygame game
 print("hello world")
+# Hi nigga
